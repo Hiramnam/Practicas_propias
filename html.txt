@@ -1,0 +1,10 @@
+<html>
+   <head></head>
+   <body>
+       <h1 style="color:blue;">Hola Mundo</h1>
+
+       <script>
+          alert("Que onda, estoy vivo!!!");
+       </script>
+    </body>
+</html>
